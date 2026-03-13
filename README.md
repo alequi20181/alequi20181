@@ -26,8 +26,15 @@ Quero **aperfeiçoar meus códigos, aprender novas tecnologias e evoluir como de
 ---
 
 ## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alequi20181\&show_icons=true\&theme=dracula)
 
-- uses: Platane/snk@v3
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alequi20181\&layout=compact\&theme=dracula)
+
+---
+
+## 🐍 Contribuições no GitHub
+
+- uses: Platane/alequi20181
   with:
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user
@@ -47,12 +54,6 @@ Quero **aperfeiçoar meus códigos, aprender novas tecnologias e evoluir como de
       dist/github-snake.svg
       dist/github-snake-dark.svg?palette=github-dark
       dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
-
----
-
-## 🐍 Contribuições no GitHub
-
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
