@@ -17,7 +17,6 @@
 * ⚛️ React
 * 🌐 Desenvolvimento Web
 * 🐍 Python
-* 📜 JavaScript
 
 ---
 
