@@ -37,7 +37,8 @@ Quero **aperfeiçoar meus códigos, aprender novas tecnologias e evoluir como de
 
 ## 🏆 Troféus do GitHub
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=alequi20181\&theme=dracula)
+[![Troféus](https://github-profile-trophy.vercel.app/?username=alequi20181\&theme=dracula\&row=1\&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
