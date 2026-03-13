@@ -34,7 +34,7 @@ Quero **aperfeiçoar meus códigos, aprender novas tecnologias e evoluir como de
 
 ## 🐍 Contribuições no GitHub
 
-![Snake animation](https://github.com/alequi20181/alequi20181/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/alequi20181/alequi201812/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
