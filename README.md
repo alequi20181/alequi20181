@@ -14,7 +14,6 @@
 
 ## 🧠 Atualmente aprendendo
 
-* ⚛️ React
 * 🌐 Desenvolvimento Web
 * 🐍 Python
 
