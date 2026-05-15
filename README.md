@@ -7,24 +7,27 @@ Sou um entusiasta da tecnologia focado em criar soluções eficientes e escaláv
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Frontend:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend" />
-</p>
+* **Frontend**
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  </p>
 
-**Backend & Scripting:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,nodejs" alt="Backend" />
-</p>
+* **Backend & Scripting**
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  </p>
 
-**Ferramentas:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
-</p>
-
----
-
-### 🚀 Projetos em Destaque
+* **Ferramentas & DevOps**
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  </p>
 
 ---
 
@@ -36,4 +39,3 @@ Sou um entusiasta da tecnologia focado em criar soluções eficientes e escaláv
 </p>
 
 ---
-
